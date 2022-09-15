@@ -16,6 +16,7 @@
 		847F00CD28D31802002979E9 /* CI_CD_DemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847F00CC28D31802002979E9 /* CI_CD_DemoTests.swift */; };
 		847F00D728D31802002979E9 /* CI_CD_DemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847F00D628D31802002979E9 /* CI_CD_DemoUITests.swift */; };
 		847F00D928D31802002979E9 /* CI_CD_DemoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847F00D828D31802002979E9 /* CI_CD_DemoUITestsLaunchTests.swift */; };
+		847F00E628D32CB9002979E9 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847F00E528D32CB9002979E9 /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		847F00D228D31802002979E9 /* CI_CD_DemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CI_CD_DemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		847F00D628D31802002979E9 /* CI_CD_DemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CI_CD_DemoUITests.swift; sourceTree = "<group>"; };
 		847F00D828D31802002979E9 /* CI_CD_DemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CI_CD_DemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		847F00E528D32CB9002979E9 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				847F00BE28D31802002979E9 /* Assets.xcassets */,
 				847F00C028D31802002979E9 /* LaunchScreen.storyboard */,
 				847F00C328D31802002979E9 /* Info.plist */,
+				847F00E528D32CB9002979E9 /* LoginViewController.swift */,
 			);
 			path = CI_CD_Demo;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				847F00E628D32CB9002979E9 /* LoginViewController.swift in Sources */,
 				847F00BA28D31801002979E9 /* ViewController.swift in Sources */,
 				847F00B628D31801002979E9 /* AppDelegate.swift in Sources */,
 				847F00B828D31801002979E9 /* SceneDelegate.swift in Sources */,
