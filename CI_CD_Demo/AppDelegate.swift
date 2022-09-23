@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  CI_CD_Demo
-//
-//  Created by Admin on 15/09/22.
-//
-
 import UIKit
 
 @main
